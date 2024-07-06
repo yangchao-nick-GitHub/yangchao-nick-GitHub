@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm yangchao, Linux C/C+ developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>ChengDu, China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm yangchao, Linux C/C+ developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197375.png" width="13"/> <b>Shaanxi, China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/12783/12783443.png" width="13"/> <b>Chengdu, Sichuan</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
